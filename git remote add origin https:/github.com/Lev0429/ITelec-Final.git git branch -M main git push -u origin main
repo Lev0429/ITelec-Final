@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Lev0429/ITelec-Final.git
+git branch -M main
+git push -u origin main
